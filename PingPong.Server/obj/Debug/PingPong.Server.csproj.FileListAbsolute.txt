@@ -1,0 +1,8 @@
+C:\Code\C#\PingPong\PingPong.Server\bin\Debug\PingPong.Server.exe.config
+C:\Code\C#\PingPong\PingPong.Server\bin\Debug\PingPong.Server.exe
+C:\Code\C#\PingPong\PingPong.Server\bin\Debug\PingPong.Server.pdb
+C:\Code\C#\PingPong\PingPong.Server\obj\Debug\PingPong.Server.csprojResolveAssemblyReference.cache
+C:\Code\C#\PingPong\PingPong.Server\obj\Debug\PingPong.Server.exe
+C:\Code\C#\PingPong\PingPong.Server\obj\Debug\PingPong.Server.pdb
+C:\Code\C#\PingPong\PingPong.Server\bin\Debug\Utils.dll
+C:\Code\C#\PingPong\PingPong.Server\bin\Debug\Utils.pdb

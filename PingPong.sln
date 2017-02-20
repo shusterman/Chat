@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.Server", "PingPong.Server\PingPong.Server.csproj", "{A9C8B5F5-153A-44BF-9664-A9D6EBA003C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.Client", "PingPong.Client\PingPong.Client.csproj", "{253DAE26-909D-42D8-AECC-367F7829BFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{3F1C208E-BEC3-4C16-A7A5-4D9B0A97A45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C8B5F5-153A-44BF-9664-A9D6EBA003C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C8B5F5-153A-44BF-9664-A9D6EBA003C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C8B5F5-153A-44BF-9664-A9D6EBA003C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C8B5F5-153A-44BF-9664-A9D6EBA003C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253DAE26-909D-42D8-AECC-367F7829BFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253DAE26-909D-42D8-AECC-367F7829BFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253DAE26-909D-42D8-AECC-367F7829BFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253DAE26-909D-42D8-AECC-367F7829BFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1C208E-BEC3-4C16-A7A5-4D9B0A97A45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1C208E-BEC3-4C16-A7A5-4D9B0A97A45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1C208E-BEC3-4C16-A7A5-4D9B0A97A45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1C208E-BEC3-4C16-A7A5-4D9B0A97A45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

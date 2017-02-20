@@ -1,0 +1,5 @@
+C:\Code\C#\PingPong\Utils\bin\Debug\Utils.dll
+C:\Code\C#\PingPong\Utils\bin\Debug\Utils.pdb
+C:\Code\C#\PingPong\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Code\C#\PingPong\Utils\obj\Debug\Utils.dll
+C:\Code\C#\PingPong\Utils\obj\Debug\Utils.pdb

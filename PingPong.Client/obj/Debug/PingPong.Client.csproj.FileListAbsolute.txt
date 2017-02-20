@@ -1,0 +1,7 @@
+C:\Code\C#\PingPong\PingPong.Client\bin\Debug\PingPong.Client.exe.config
+C:\Code\C#\PingPong\PingPong.Client\bin\Debug\PingPong.Client.exe
+C:\Code\C#\PingPong\PingPong.Client\bin\Debug\PingPong.Client.pdb
+C:\Code\C#\PingPong\PingPong.Client\bin\Debug\Utils.dll
+C:\Code\C#\PingPong\PingPong.Client\bin\Debug\Utils.pdb
+C:\Code\C#\PingPong\PingPong.Client\obj\Debug\PingPong.Client.exe
+C:\Code\C#\PingPong\PingPong.Client\obj\Debug\PingPong.Client.pdb
